@@ -1,0 +1,62 @@
+/* App.css */
+main {
+  background-color: rgb(2, 2, 95);
+}
+
+h1 {
+  margin-top: 0;
+  background-color: #007bff;
+}
+
+form {
+  margin-bottom: 20px;
+  text-align: center;
+  background-color:lightblue;
+}
+.main{
+  margin-bottom: 20px;
+  text-align: center;
+  background-color:lightblue;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"]
+ {
+  margin:10px;
+  padding: 8px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+p{
+  margin-left:10px;
+}
+
+button {
+  margin: 10px;
+  padding: 8px;
+  cursor: pointer;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+}
+
+button:hover {
+  background-color: grey;
+  transform:scale(1,2);
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+.chart {
+  margin-top: 20px;
+}
+
